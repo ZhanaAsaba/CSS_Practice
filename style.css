@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue; /* For browsers that do not support gradients */
+        background-image: linear-gradient(to right, powderblue , rgb(195, 130, 238) );
+}
+    li {
+        display: inline;
+    }
+    
+    .edit{
+        color: black
+    }
+    
+    .edit{
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Roboto', sans-serif;    
+    }
